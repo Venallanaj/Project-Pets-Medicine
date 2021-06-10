@@ -36,6 +36,13 @@ The data-target attribute points to the id of the carousel.
 
 The data-slide-to attribute specifies which slide to go to, when clicking on the specific dot.
 
+# Our Mission
+just I a have created a class .content container follow by row and  class with .col-sm-12 placed inside
+text  with <p> html tag.
+
+# Our Mission
+I have created a class .row another class .col-sm-4 which i havepalced inside a image with class .thumbnail
+also i created another class .caption   for more space and looks more better which conatain html tag H3,p, and class with.btn-info.
    
 
 
